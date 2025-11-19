@@ -17,7 +17,7 @@
 - 🚀 I’m currently learning more about **MERN stack**, improving my React skills, and building real-world full-stack projects.  
 - 💬 Ask me about **Frontend Development, React, Firebase Authentication, and MERN Stack basics**.  
 - 🌐 Explore my future projects and portfolio — coming soon!  
-- 📫 Feel free to reach me at **tomalhossen.dev@gmail.com**  
+- 📫 Feel free to reach me at **tomalhossen78@gmail.com**  
 
 <br/>
 
