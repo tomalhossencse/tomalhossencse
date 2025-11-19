@@ -7,7 +7,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Tomal Hossen</h1></summary>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=React+Frontend+Developer;JavaScript+Enthusiast;Open+to+Internships+and+Remote+Roles" alt="Typing SVG" /></a> 
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=React+Frontend+Developer;JavaScript+Enthusiast;Building+Modern+Web+Apps" alt="Typing SVG" /></a> 
   </ul>
 </div>
 
