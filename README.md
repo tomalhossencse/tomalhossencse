@@ -30,8 +30,8 @@
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tomalhossencse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tomalhossencse/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/tomalhossencse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tomalhossencse" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tomalhossencse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tomalhossencse/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tomalhossencse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tomalhossencse" height="30" width="40" /></a>
 </p>
 
 <br/>
