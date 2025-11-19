@@ -11,7 +11,7 @@
 
 <!--- about --->
 
-- 👋 Hi, I’m **Tomal Hossen (@tomalhossencse)**  
+- 👋 Hi, I’m **Tomal Hossen  **[@tomalhossencse](https://github.com/tomalhossencse)****  
 - 🖥️ I’m currently working with **HTML, CSS, Tailwind CSS, JavaScript (ES6), and React.js** for frontend development.  
 - 🗄️ Exploring backend development using **Node.js, Express.js, and MongoDB**.  
 - 🚀 I’m currently learning more about **MERN stack**, improving my React skills, and building real-world full-stack projects.  
