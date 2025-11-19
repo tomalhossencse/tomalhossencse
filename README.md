@@ -11,13 +11,13 @@
 
 <!--- about --->
 
-- 👋 Hi, I’m **Tomal Hossen  **[@tomalhossencse](https://github.com/tomalhossencse)****  
+- 👋 Hi, I’m **Tomal Hossen  **[@tomalhossencse](https://github.com/tomalhossencse)**  
 - 🖥️ I’m currently working with **HTML, CSS, Tailwind CSS, JavaScript (ES6), and React.js** for frontend development.  
 - 🗄️ Exploring backend development using **Node.js, Express.js, and MongoDB**.  
 - 🚀 I’m currently learning more about **MERN stack**, improving my React skills, and building real-world full-stack projects.  
 - 💬 Ask me about **Frontend Development, React, Firebase Authentication, and MERN Stack basics**.  
 - 🌐 Explore my future projects and portfolio — coming soon!  
-- 📫 Feel free to reach me at **[email](https://mailto:tomalhossen78@gmail.com)**** 
+- 📫 Feel free to reach me at **[Email](https://mailto:tomalhossen78@gmail.com)** 
 
 <br/>
 
