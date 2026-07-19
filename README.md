@@ -53,7 +53,7 @@
 [![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind)](https://github.com/tomalhossencse)
 
 ### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express,nextjs)](https://github.com/tomalhossencse)
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,typescript)](https://github.com/tomalhossencse)
 
 ### Database & Model:
 [![Database & Model](https://skillicons.dev/icons?i=mongodb,postgres,prisma)](https://github.com/tomalhossencse)
