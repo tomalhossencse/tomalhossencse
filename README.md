@@ -6,15 +6,12 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h1 style="display: inline-block">Hi 👋, I'm Tomal Hossen</h1>
+      <h1>Hi 👋, I'm Tomal Hossen</h1>
     </summary>
 
-    <a href="https://git.io/typing-svg">
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Next.js+Developer;TypeScript+%26+Node.js+Developer;Building+Modern+Web+Applications"
-        alt="Typing SVG"
-      />
-    </a>
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Modern+Web+Applications;React+and+Next.js+Developer;TypeScript+and+Node.js+Developer" alt="Typing SVG" />
+</a>
   </ul>
 </div>
 
