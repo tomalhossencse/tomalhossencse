@@ -5,9 +5,16 @@
 <!--- title --->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Tomal Hossen</h1></summary>
-    <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=React+Frontend+Developer;JavaScript+Enthusiast;Building+Modern+Web+Apps" alt="Typing SVG" /></a> 
+    <summary>
+      <h1 style="display: inline-block">Hi 👋, I'm Tomal Hossen</h1>
+    </summary>
+
+    <a href="https://git.io/typing-svg">
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Next.js+Developer;TypeScript+%26+Node.js+Developer;Building+Modern+Web+Applications"
+        alt="Typing SVG"
+      />
+    </a>
   </ul>
 </div>
 
@@ -15,13 +22,15 @@
 
 <!--- about --->
 
-- 👋 Hi, I’m Tomal Hossen  **[@tomalhossencse](https://github.com/tomalhossencse)**  
-- 🖥️ I’m currently working with **HTML, CSS, Tailwind CSS, JavaScript (ES6), and React.js** for frontend development.  
-- 🗄️ Exploring backend development using **Node.js, Express.js, and MongoDB**.  
-- 🚀 I’m currently learning more about **MERN stack**, improving my React skills, and building real-world full-stack projects.  
-- 💬 Ask me about **Frontend Development, React, Firebase Authentication, and MERN Stack basics**.  
-- 🌐 Explore my future projects and portfolio — coming soon!  
-- 📫 Feel free to reach me at **[Email](https://mail.google.com/mail/?view=cm&to=tomalhossen78@gmail.com)** 
+- 👋 Hi, I'm **Tomal Hossen** — a **Full Stack Developer** from Bangladesh. **[@tomalhossencse](https://github.com/tomalhossencse)**
+- 💻 I build modern, responsive web applications using **React.js, Next.js, TypeScript, JavaScript (ES6+), and Tailwind CSS**.
+- ⚙️ I develop backend applications and REST APIs using **Node.js, Express.js, and TypeScript**.
+- 🗄️ I work with databases such as **PostgreSQL, MongoDB**, and use **Prisma ORM** for database management.
+- 🔐 I have experience implementing **JWT authentication, Firebase Authentication, and secure REST APIs**.
+- 🚀 I'm continuously improving my **Full Stack Development** skills and building real-world projects with modern technologies.
+- 💬 Ask me about **React.js, Next.js, TypeScript, Node.js, Express.js, REST APIs, PostgreSQL, MongoDB, Prisma ORM, and Full Stack Development**.
+- 🌐 Explore my projects and portfolio: **[Portfolio](https://tomalhossen.vercel.app/)**
+- 📫 Feel free to reach me at **[Email](https://mail.google.com/mail/?view=cm&to=tomalhossen78@gmail.com)**
 
 <br/>
 
