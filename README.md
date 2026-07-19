@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="./Banner/tomal github banner photo.jpg" alt="banner">
+<img src="./Banner/tomal-hossen-banner.png" alt="banner">
 <br/>
 
 <!--- title --->
