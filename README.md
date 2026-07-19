@@ -50,7 +50,7 @@
 [![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express)](https://github.com/tomalhossencse)
 
 ### Database & Model:
-[![Database & Model](https://skillicons.dev/icons?i=mongodb,postgress,prisma)](https://github.com/tomalhossencse)
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,postgres,prisma)](https://github.com/tomalhossencse)
 
 ### Deployment Platform:
 [![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/tomalhossencse)
